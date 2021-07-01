@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1554075069 source:c:\codeblocks\pilhabin\pilhabin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhaBin.h"
+
+1554074434 c:\codeblocks\pilhabin\pilhabin\pilhabin.h
+
+1554074415 source:c:\codeblocks\pilhabin\pilhabin\pilhabin.c
+	<stdlib.h>
+	"pilhaBin.h"
+
